@@ -1,4 +1,4 @@
-# Code used to analyse dropped and new voter data between 2018 to 2020.
+# Code used to analyze dropped and new voter data between 2018 to 2020.
 
 Files needed to run the code:
 
